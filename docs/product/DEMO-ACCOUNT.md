@@ -76,9 +76,8 @@ From the campaign brief and how-to plans, still open:
 - ⚠ **Inventory → Settings → "Delete all inventory"** clears stock across
   **every branch**. Never click it, never let a script go near it.
 - Opening **Add Product** and pressing **Cancel** saves nothing (checked 17 Nov).
-- Screenshots: Chrome only captures a tab whose window is visible; with the
-  Add Product form open on the 2,000-batch inventory page, capture timed out
-  even when visible — record that form on a lighter page or with ffmpeg.
+- Screenshots: Chrome only captures a tab whose window is in front — a hidden
+  or background window times out.
 - Reference screenshots: [screenshots/](screenshots/).
 - Wait for KPI cards to fill before reading numbers — pages show "0 batches ·
   0 units" while loading (the 11 Nov false alarm).

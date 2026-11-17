@@ -10,10 +10,12 @@ planning only, **not** for use in videos — they show unseeded demo data.
 | `02-branch-dashboard.jpg` | Kigali branch → Dashboard (KPI tiles with sparklines) |
 | `03-branch-pos.jpg` | Kigali branch → Point of Sale (action bar, product list, empty cart) |
 | `04-branch-inventory.jpg` | Kigali branch → Inventory (toolbar, KPI cards, sub-tabs) |
+| `05-branch-learning-center.jpg` | Kigali branch → Learning Center ("Explore tutorials", category tabs, guide cards) |
+| `06-hq-reports.jpg` | Head Office → Reports (report rail, filters, Profit and Loss from the ledger) |
+| `07-add-product-form.jpg` | Inventory → **Add product** form, Basic tab (5 step tabs, selling pack). Opened and cancelled — nothing saved |
 
-**Not captured (still to do):** Add Product form (capture froze on that page),
-Learning Center, Reports index. Retake with the Chrome window in front, or record
-with the ffmpeg setup in [`tools/`](../../../tools/README.md).
+Screenshots only work while the Chrome window is in front (a hidden window
+times out).
 
-No personal data is visible in these four images (only the "MalFour Owner"
-account name).
+No personal data is visible in these images (only the "MalFour Owner" account
+name). `06` shows demo revenue figures — fine for planning, not for videos.
