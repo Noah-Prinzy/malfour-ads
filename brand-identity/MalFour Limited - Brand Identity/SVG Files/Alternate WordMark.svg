@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2001.51 2004.94">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b92025;
+      }
+
+      .cls-2 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 385.57px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1089.2468 1096.3081)"><tspan x="0" y="0">our</tspan></text>
+  <text class="cls-2" transform="translate(117.6407 1095.9917)"><tspan x="0" y="0">Mal</tspan></text>
+  <path class="cls-3" d="M1001.65,811.19v81.9c-42.87,47.36-87.98,92.67-130.43,140.31-.72.81-1.38,1.91-2.57,1.71v-81.9c4.83-5.14,9.55-10.41,14.37-15.57,31.61-33.82,63.53-67.81,95.31-101.56,7.16-7.6,15.26-15.94,21.86-24.01.38-.47-.05-1.32,1.46-.88Z"/>
+  <polygon class="cls-1" points="1001.65 1035.8 1001.65 1097.31 946.66 1097.31 946.66 1034.77 1001.33 976.37 1058.24 976.37 1059.2 977.4 1059.2 1034.77 1058.24 1035.8 1001.65 1035.8"/>
+</svg>

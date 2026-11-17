@@ -1,0 +1,9 @@
+Brand name,Generic name,Category,Base unit,Pack size,Units per pack,Barcode,Cost price (RWF),Sell price (RWF),Batch number,Expiry date,Opening quantity,Reorder level,Supplier,VAT category
+Demo Paracetamol 500mg,Paracetamol,Pain & fever,Tablet,Strip of 10,10,2009876540014,60,100,DEMO-B001,2028-03-31,200,50,Demo Supplier Ltd,TAX_B
+Demo Amoxi 250mg,Amoxicillin,Antibiotics,Capsule,Strip of 10,10,2009876540021,180,300,DEMO-B002,2027-11-30,120,40,Demo Supplier Ltd,TAX_B
+Demo Cough Syrup 100ml,Guaifenesin,Cough & cold,Bottle,Bottle of 1,1,2009876540038,900,1400,DEMO-B003,2027-09-30,60,20,Demo Supplier Ltd,TAX_B
+Demo ORS Sachet,Oral rehydration salts,Rehydration,Sachet,Box of 20,20,2009876540045,1200,1800,DEMO-B004,2028-06-30,40,10,Demo Supplier Ltd,TAX_B
+Demo Antacid Tab,Aluminium hydroxide,Digestive,Tablet,Strip of 12,12,2009876540052,150,250,DEMO-B005,2028-01-31,150,30,Demo Supplier Ltd,TAX_B
+Demo Vitamin C 500mg,Ascorbic acid,Vitamins,Tablet,Tube of 20,20,2009876540069,700,1200,DEMO-B006,2028-08-31,80,20,Demo Supplier Ltd,TAX_B
+Demo Antiseptic 100ml,Chlorhexidine,First aid,Bottle,Bottle of 1,1,2009876540076,800,1300,DEMO-B007,2028-02-29,45,15,Demo Supplier Ltd,TAX_B
+Demo Eye Drops 10ml,Lubricant eye drops,Eye care,Bottle,Bottle of 1,1,2009876540083,2500,3900,DEMO-B008,2027-12-31,30,10,Demo Supplier Ltd,TAX_B

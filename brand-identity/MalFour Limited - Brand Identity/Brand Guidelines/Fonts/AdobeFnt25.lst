@@ -1,0 +1,1361 @@
+%!Adobe-FontList 1.25
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter-Italic
+FamilyName:Inter
+StyleName:Italic
+FullName:Inter Italic
+MenuName:Inter
+FamilyPrefix:InterItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\Inter-Italic-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:904532
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter-Regular
+FamilyName:Inter
+StyleName:Regular
+FullName:Inter Regular
+MenuName:Inter
+FamilyPrefix:Inter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\Inter-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:874708
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\OFL.txt
+FileModTime:1756543112
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\README.txt
+FileModTime:1756543112
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Black
+FamilyName:Inter 18pt
+StyleName:Black
+FullName:Inter 18pt Black
+MenuName:Inter 18pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344820
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt Black
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-BlackItalic
+FamilyName:Inter 18pt
+StyleName:Black Italic
+FullName:Inter 18pt Black Italic
+MenuName:Inter 18pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348712
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt Black
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Bold
+FamilyName:Inter 18pt
+StyleName:Bold
+FullName:Inter 18pt Bold
+MenuName:Inter 18pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344152
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-BoldItalic
+FamilyName:Inter 18pt
+StyleName:Bold Italic
+FullName:Inter 18pt Bold Italic
+MenuName:Inter 18pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348180
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-ExtraBold
+FamilyName:Inter 18pt
+StyleName:ExtraBold
+FullName:Inter 18pt ExtraBold
+MenuName:Inter 18pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:345008
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt ExtraBold
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-ExtraBoldItalic
+FamilyName:Inter 18pt
+StyleName:ExtraBold Italic
+FullName:Inter 18pt ExtraBold Italic
+MenuName:Inter 18pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:349064
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt ExtraBold
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-ExtraLight
+FamilyName:Inter 18pt
+StyleName:ExtraLight
+FullName:Inter 18pt ExtraLight
+MenuName:Inter 18pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343532
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt ExtraLight
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-ExtraLightItalic
+FamilyName:Inter 18pt
+StyleName:ExtraLight Italic
+FullName:Inter 18pt ExtraLight Italic
+MenuName:Inter 18pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347452
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt ExtraLight
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Italic
+FamilyName:Inter 18pt
+StyleName:Italic
+FullName:Inter 18pt Italic
+MenuName:Inter 18pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346480
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Light
+FamilyName:Inter 18pt
+StyleName:Light
+FullName:Inter 18pt Light
+MenuName:Inter 18pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343704
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt Light
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-LightItalic
+FamilyName:Inter 18pt
+StyleName:Light Italic
+FullName:Inter 18pt Light Italic
+MenuName:Inter 18pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347316
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt Light
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Medium
+FamilyName:Inter 18pt
+StyleName:Medium
+FullName:Inter 18pt Medium
+MenuName:Inter 18pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343200
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt Medium
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-MediumItalic
+FamilyName:Inter 18pt
+StyleName:Medium Italic
+FullName:Inter 18pt Medium Italic
+MenuName:Inter 18pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346884
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt Medium
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Regular
+FamilyName:Inter 18pt
+StyleName:Regular
+FullName:Inter 18pt Regular
+MenuName:Inter 18pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342680
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-SemiBold
+FamilyName:Inter 18pt
+StyleName:SemiBold
+FullName:Inter 18pt SemiBold
+MenuName:Inter 18pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343828
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt SemiBold
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-SemiBoldItalic
+FamilyName:Inter 18pt
+StyleName:SemiBold Italic
+FullName:Inter 18pt SemiBold Italic
+MenuName:Inter 18pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347760
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt SemiBold
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-Thin
+FamilyName:Inter 18pt
+StyleName:Thin
+FullName:Inter 18pt Thin
+MenuName:Inter 18pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343088
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 18pt Thin
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter18pt-ThinItalic
+FamilyName:Inter 18pt
+StyleName:Thin Italic
+FullName:Inter 18pt Thin Italic
+MenuName:Inter 18pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_18pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346916
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 18pt Thin
+NameArray:0,Win,16,Inter 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Black
+FamilyName:Inter 24pt
+StyleName:Black
+FullName:Inter 24pt Black
+MenuName:Inter 24pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344764
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt Black
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-BlackItalic
+FamilyName:Inter 24pt
+StyleName:Black Italic
+FullName:Inter 24pt Black Italic
+MenuName:Inter 24pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348612
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt Black
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Bold
+FamilyName:Inter 24pt
+StyleName:Bold
+FullName:Inter 24pt Bold
+MenuName:Inter 24pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344028
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-BoldItalic
+FamilyName:Inter 24pt
+StyleName:Bold Italic
+FullName:Inter 24pt Bold Italic
+MenuName:Inter 24pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347948
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-ExtraBold
+FamilyName:Inter 24pt
+StyleName:ExtraBold
+FullName:Inter 24pt ExtraBold
+MenuName:Inter 24pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344800
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt ExtraBold
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-ExtraBoldItalic
+FamilyName:Inter 24pt
+StyleName:ExtraBold Italic
+FullName:Inter 24pt ExtraBold Italic
+MenuName:Inter 24pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348896
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt ExtraBold
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-ExtraLight
+FamilyName:Inter 24pt
+StyleName:ExtraLight
+FullName:Inter 24pt ExtraLight
+MenuName:Inter 24pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343516
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt ExtraLight
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-ExtraLightItalic
+FamilyName:Inter 24pt
+StyleName:ExtraLight Italic
+FullName:Inter 24pt ExtraLight Italic
+MenuName:Inter 24pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347352
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt ExtraLight
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Italic
+FamilyName:Inter 24pt
+StyleName:Italic
+FullName:Inter 24pt Italic
+MenuName:Inter 24pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346580
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Light
+FamilyName:Inter 24pt
+StyleName:Light
+FullName:Inter 24pt Light
+MenuName:Inter 24pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343440
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt Light
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-LightItalic
+FamilyName:Inter 24pt
+StyleName:Light Italic
+FullName:Inter 24pt Light Italic
+MenuName:Inter 24pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347300
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt Light
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Medium
+FamilyName:Inter 24pt
+StyleName:Medium
+FullName:Inter 24pt Medium
+MenuName:Inter 24pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342936
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt Medium
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-MediumItalic
+FamilyName:Inter 24pt
+StyleName:Medium Italic
+FullName:Inter 24pt Medium Italic
+MenuName:Inter 24pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347000
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt Medium
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Regular
+FamilyName:Inter 24pt
+StyleName:Regular
+FullName:Inter 24pt Regular
+MenuName:Inter 24pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342732
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-SemiBold
+FamilyName:Inter 24pt
+StyleName:SemiBold
+FullName:Inter 24pt SemiBold
+MenuName:Inter 24pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343640
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt SemiBold
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-SemiBoldItalic
+FamilyName:Inter 24pt
+StyleName:SemiBold Italic
+FullName:Inter 24pt SemiBold Italic
+MenuName:Inter 24pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347616
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt SemiBold
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-Thin
+FamilyName:Inter 24pt
+StyleName:Thin
+FullName:Inter 24pt Thin
+MenuName:Inter 24pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342944
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 24pt Thin
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter24pt-ThinItalic
+FamilyName:Inter 24pt
+StyleName:Thin Italic
+FullName:Inter 24pt Thin Italic
+MenuName:Inter 24pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_24pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346976
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 24pt Thin
+NameArray:0,Win,16,Inter 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Black
+FamilyName:Inter 28pt
+StyleName:Black
+FullName:Inter 28pt Black
+MenuName:Inter 28pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344676
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt Black
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-BlackItalic
+FamilyName:Inter 28pt
+StyleName:Black Italic
+FullName:Inter 28pt Black Italic
+MenuName:Inter 28pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348608
+FileModTime:1748531004
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt Black
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Bold
+FamilyName:Inter 28pt
+StyleName:Bold
+FullName:Inter 28pt Bold
+MenuName:Inter 28pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343972
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-BoldItalic
+FamilyName:Inter 28pt
+StyleName:Bold Italic
+FullName:Inter 28pt Bold Italic
+MenuName:Inter 28pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348084
+FileModTime:1748531004
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-ExtraBold
+FamilyName:Inter 28pt
+StyleName:ExtraBold
+FullName:Inter 28pt ExtraBold
+MenuName:Inter 28pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:344692
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt ExtraBold
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-ExtraBoldItalic
+FamilyName:Inter 28pt
+StyleName:ExtraBold Italic
+FullName:Inter 28pt ExtraBold Italic
+MenuName:Inter 28pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:348944
+FileModTime:1748531004
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt ExtraBold
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-ExtraLight
+FamilyName:Inter 28pt
+StyleName:ExtraLight
+FullName:Inter 28pt ExtraLight
+MenuName:Inter 28pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343184
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt ExtraLight
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-ExtraLightItalic
+FamilyName:Inter 28pt
+StyleName:ExtraLight Italic
+FullName:Inter 28pt ExtraLight Italic
+MenuName:Inter 28pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347268
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt ExtraLight
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Italic
+FamilyName:Inter 28pt
+StyleName:Italic
+FullName:Inter 28pt Italic
+MenuName:Inter 28pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346528
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Light
+FamilyName:Inter 28pt
+StyleName:Light
+FullName:Inter 28pt Light
+MenuName:Inter 28pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343092
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt Light
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-LightItalic
+FamilyName:Inter 28pt
+StyleName:Light Italic
+FullName:Inter 28pt Light Italic
+MenuName:Inter 28pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347092
+FileModTime:1748531004
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt Light
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Medium
+FamilyName:Inter 28pt
+StyleName:Medium
+FullName:Inter 28pt Medium
+MenuName:Inter 28pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342808
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt Medium
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-MediumItalic
+FamilyName:Inter 28pt
+StyleName:Medium Italic
+FullName:Inter 28pt Medium Italic
+MenuName:Inter 28pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346900
+FileModTime:1748531004
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt Medium
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Regular
+FamilyName:Inter 28pt
+StyleName:Regular
+FullName:Inter 28pt Regular
+MenuName:Inter 28pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342484
+FileModTime:1748531004
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-SemiBold
+FamilyName:Inter 28pt
+StyleName:SemiBold
+FullName:Inter 28pt SemiBold
+MenuName:Inter 28pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:343244
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt SemiBold
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-SemiBoldItalic
+FamilyName:Inter 28pt
+StyleName:SemiBold Italic
+FullName:Inter 28pt SemiBold Italic
+MenuName:Inter 28pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:347380
+FileModTime:1748531004
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt SemiBold
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-Thin
+FamilyName:Inter 28pt
+StyleName:Thin
+FullName:Inter 28pt Thin
+MenuName:Inter 28pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342904
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter 28pt Thin
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter28pt-ThinItalic
+FamilyName:Inter 28pt
+StyleName:Thin Italic
+FullName:Inter 28pt Thin Italic
+MenuName:Inter 28pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\pavillion\Downloads\MalFour Technologies - Logo Project\Brand Guidlines\Font\static\Inter_28pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:346980
+FileModTime:1748531004
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter 28pt Thin
+NameArray:0,Win,16,Inter 28pt
+%EndFont
+
