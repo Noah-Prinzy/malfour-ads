@@ -4,6 +4,12 @@ Researched 13 Nov 2026 from the live app (`pharmacy.malfour.com/hq`, Head Office
 workspace, demo account with fictional data) and the public site
 (`malfour.com`). Read-only; nothing was created or changed.
 
+> **Re-verified 17 Nov 2026** (live walk through every HQ module and the Kigali
+> branch workspace, read-only). Sections 1–8 still hold. Corrections and new
+> details are in **§9** at the end; the current state of the demo data (and what
+> must not appear in footage) is in [DEMO-ACCOUNT.md](DEMO-ACCOUNT.md).
+> Company background: [../company/MALFOUR-COMPANY.md](../company/MALFOUR-COMPANY.md).
+
 ---
 
 ## 1. What the system is
@@ -132,7 +138,7 @@ batch/serial · credit customers tracked · licences never lapse.
 
 ## 5. Brand & colour theme for the videos
 
-> **SUPERSEDED — see `../BRAND.md`.** The official Brand Identity pack
+> **SUPERSEDED — see [`../brand/BRAND.md`](../brand/BRAND.md).** The official Brand Identity pack
 > (received 13 Nov 2026) is authoritative and corrects the web-sampled values
 > below: the brand red is **`#BE1E2D`** (logo) / `#BA000C` (book), the base is
 > **white, not cream**, and the typeface is **Inter, not Manrope**. The table
@@ -382,4 +388,136 @@ start with the **cores — Inventory and Point of Sale** (easiest first, not HQ
 Overview), one broad "overview" video per module (e.g. the whole "Make your first
 sale" flow), **then** short concept clips (reprint, receipts, refund, refund
 journal). "Watch your branches" (HQ Overview) is to be **paused**, being the
-hardest. See `../videos/PROPOSED-ORDER.md` for the proposed production order.
+hardest. See [`../videos/SERIES-ROADMAP.md`](../videos/SERIES-ROADMAP.md) for the
+production order (the original `PROPOSED-ORDER.md` was not in the repo import).
+
+---
+
+## 9. Re-verification, 17 Nov 2026 — corrections and new details
+
+Walked read-only through every Head Office module and the Kigali branch
+workspace (Dashboard, Inventory, POS, Expenses, Accounting, Settings, Learning
+Center). Nothing was saved, sold or changed.
+
+**Confirmed unchanged:** HQ top nav (13 modules + Help & Support), branch top nav
+(10 modules), the POS action bar (SALE / RECEIPTS / NON-FISCAL / DRAWER / VIEW),
+the Inventory sub-tabs, the Reports catalogue, and both Learning Centers
+(13 HQ + 22 branch guides, every one still "Video coming soon").
+
+**Corrections to the sections above**
+- **Reports count:** the Inventory group has **18** reports (not ≈19). Full
+  catalogue = 3 per-branch fiscal (X/Z/PLU) + 4 Business + 7 Sales + 4
+  Receivables + 5 Insurance + 6 Purchases & Expenses + 5 Payables + 18 Inventory
+  + 1 Taxes + 5 Accountant + 2 Dashboards + Controlled Drug Register ≈ **61**.
+- **Branch IDs & fiscal devices:** Kigali = Branch ID 00 ("Main"), Kampala = 01,
+  Nairobi = 02, all under one RRA MRC, each with a **sandbox** EBM/VSDC device.
+  All three branches trade in **RWF**, so the Kampala/Nairobi names are demo
+  labels, not working Uganda/Kenya set-ups.
+- **Compliance vs Insurance mismatch (product inconsistency):** HQ Compliance
+  says *"RSSB, CBHI (Mutuelle) and private-scheme claims are not recorded in the
+  system yet"*, while HQ Insurance lists **52 recent claims** (mostly RSSB
+  Medical (RAMA) in DRAFT; a few SUBMITTED or VOID; one private insurer). Don't
+  script the Compliance insurance panel as working until MalFour confirms.
+- **Licences:** Rwanda FDA premises licence shows "Not recorded"; pharmacist
+  (NPC) licences "All valid".
+
+**New details worth using**
+- **HQ Overview** footnote explains "heard": *the last time a till at the
+  branch reached the server — sales made offline arrive later with that upload.*
+  Data is "checked every minute". Good plain-language line for the offline story.
+- **Branch page (HQ → branch row)** shows: last heard / last sale arrived,
+  takings, tills open, offline sales waiting (with age), stock out/low and lines
+  carried, the branch's needs-attention list, fiscal device status, **near-expiry
+  lots with "won't sell" value**, **cash last 7 days** (shifts closed, flagged,
+  not certified, who has a till open and for how long) and **voids / refunds /
+  discounts per person**. The **"Work at branch"** button opens the branch
+  workspace.
+- **Governance → Prices:** chain price per product, then one column per branch
+  showing "what a walk-in customer pays there today"; *"setting a figure there
+  overrides the chain price at that branch only."* 149 products, 50 per page.
+- **Accounting (HQ & branch):** a narrative sentence first — *"You sold … in N
+  sales. The medicines and products you sold cost you …, which leaves a gross
+  profit of …"* — then Sold / Cost of medicines sold / Gross profit / Running
+  costs / **Kept**, a six-month chart, and a per-branch table with "Best this
+  month" tag.
+- **Branch Dashboard** extras: Daily Sales Goal bar (goal RWF 500,000),
+  **Tomorrow's Forecast**, Top Selling Products (7 days), Recent Transactions,
+  and an "Expiring Within 30 Days" list with a **"Suggest 50% discount"** action.
+- **Settings (HQ)** is grouped by scope: *From branches* (change requests) ·
+  *Every branch* (Pharmacy Info, Branches, Billing & Plan, Data & Backup) ·
+  *All branches or chosen ones* (Inventory, Printers) · *Fiscal devices by branch*
+  (Integrations & API — RRA VSDC) · *Your account and this device*
+  (Notifications, Security, Localization, Appearance) · *Managed elsewhere*
+  (Staff, Tills and shifts, Prices and promotions).
+- **Expenses** (branch): month spent vs last month, budget left, awaiting
+  approval, spend as % of takings, by-category table, six-month chart; tabs
+  Expenses · Bills · Recurring · Budget plan · Insights.
+- **Staff (HQ)** tabs: People · Attendance · Performance; "On duty means a shift
+  is open or the person's till checked in within the last few minutes."
+- **Patients (HQ)** filters: All · Insured · Active prescriptions · Chronic ·
+  Allergies · Owing · Families · Businesses; KPI cards for patients, active
+  prescriptions and insurance cards expiring.
+- The app recommends **tablet (≥600 px wide), laptop or desktop** — "Best on a
+  bigger screen".
+
+### 9a. Branch modules not covered before (17 Nov 2026, second pass)
+
+- **Branch Reports = the full catalogue**, not just the 4-item rail in §8d:
+  Fiscal Reports (X/Z/PLU, "view and print closed daily reports") plus every
+  Business, Sales, Receivables, Insurance, Purchases, Payables, Inventory, Tax,
+  Accountant and Dashboard report, scoped to the branch. The P&L report shows
+  ledger lines, e.g. `4000 Sales Revenue`, `5000 Cost of Goods Sold`,
+  `5100 Stock Adjustments / Loss (legacy)`.
+- **Branch Transfers:** "Stock coming to this branch, stock it has been asked
+  to send, and what it has asked for." **Request stock** button; KPIs To
+  receive / To send ("approved by head office") / Requests waiting ("for head
+  office to answer"); tabs To receive · To send · Our requests · History.
+  → Branches *request*, Head Office *approves*.
+- **Branch Insurance** tabs:
+  - **Claims** — receipt, patient/member, insurer, patient paid, insurer owed,
+    outstanding, status (DRAFT / SUBMITTED / VOID); actions Reprint receipt ·
+    Form details · **RSSB form PDF** · Record response.
+  - **Tariffs** — insurer price lists: *Enter insurer prices manually* (draft →
+    add prices → review → activate) or *Import insurer CSV or XLSX*; versioned
+    price lists (e.g. an RSSB list dated 16 Nov 2026).
+  - **Batches** — *Create monthly claim batch* (groups unsubmitted claims for
+    one insurer and calendar month).
+  - **Providers** — 8 configured insurers: Britam, Eden Care, MMI, Old Mutual
+    (UAP), Prime, **RSSB Medical (RAMA)**, Radiant, Sanlam Allianz. *"Only RSSB
+    claims have a generated PDF form."*
+- **Branch Patients:** same layout as HQ (Prescription code lookup, New
+  patient, filters), scoped to the branch.
+- **Inventory sub-tabs, confirmed live:**
+  - *Categories* — 24, with **duplicates** (singular with 0 batches vs plural
+    in use, e.g. "Antibiotic" / "Antibiotics") — demo data quirk.
+  - *Operations* — e.g. **Quarantine stock** ("hold a lot from sale while it is
+    inspected"); Location setup (receiving bays, shelves, cold-chain zones,
+    dispensing counters); operation history.
+  - *Purchases & imports* — per-branch RRA fetch log (BHF 00/01/02, first fetch
+    30 Sept 2026, polled every ~30 min, times in Africa/Kigali).
+  - *Locations* — lot balances per zone with state (AVAILABLE, QUARANTINED…).
+  - *Cycle counts* — none submitted yet.
+  - *Valuation* — "Batch actual cost (pharmacy lot costing)", run as-of a date.
+  - *Stock Forecast* — status Overstocked / Normal / Out of Stock.
+  - *Compliance* — expiry risk (<90 d), recalled lots, cold-chain exceptions,
+    controlled stock, disposed stock, **cold-chain temperature log** (Record
+    reading), **controlled-drug register** (open/received/dispensed/returned/
+    disposed/ledger/physical/variance, Export CSV), **disposal certificates**.
+  - *Settings* — Low stock threshold, Expiry warning days, VAT registration
+    note, Default VAT rate, toggles (Batch Tracking, **Allow Negative Stock**,
+    Notify on Low Stock, Notify on Expiry Warning) and a **"Delete all
+    inventory"** button that clears stock across every branch. ⚠ Never click.
+
+### 9b. Learning Center wording vs real UI labels
+
+The guide steps (full text in [../videos/GUIDE-STEPS.md](../videos/GUIDE-STEPS.md))
+sometimes name screens differently from the app. Scripts must use the **on-screen**
+label:
+
+| Guide says | App shows |
+|---|---|
+| "Imports" | Inventory → **Purchases & imports** (RRA) or **Import CSV or Excel** (file) |
+| "Stocktakes" | Inventory → **Cycle counts** |
+| "Cash-up" | Branch **Accounting → Cash-up** tab (POS has **End Shift**) |
+| "Supplier Bills", "Invoices", "Banking" | Branch **Expenses → Bills**; invoices/banking live under Accounting (Money accounts) — confirm before scripting |
+| "Profile" | Account menu (top right) |

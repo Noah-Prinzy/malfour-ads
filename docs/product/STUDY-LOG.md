@@ -1,6 +1,11 @@
 # MalFour Pharmacy System: live study log
 
-*Read-only walk through `pharmacy.malfour.com`, demo account **URUMURI Pharmacy, "Demo Pharma"** (Emmanuel Muhindo, Admin), signed in by Noah. Nothing was changed. Started 10 Nov 2026. The campaign brief built from this is `CAMPAIGN-BRIEF.md` in this folder.*
+*Read-only walk through `pharmacy.malfour.com`, demo account **URUMURI Pharmacy, "Demo Pharma"** (Emmanuel Muhindo, Admin), signed in by Noah. Nothing was changed. Started 10 Nov 2026. The campaign brief built from this is [`../marketing/CAMPAIGN-BRIEF.md`](../marketing/CAMPAIGN-BRIEF.md).*
+
+> **Historical log (10–11 Nov 2026).** The demo account has since changed (it is
+> now the 3-branch "MalFour Pharmacy" chain) and most "not opened yet" items
+> below were covered later. Current, verified facts live in
+> [SYSTEM-STUDY.md](SYSTEM-STUDY.md) and [DEMO-ACCOUNT.md](DEMO-ACCOUNT.md).
 
 ## Coverage
 

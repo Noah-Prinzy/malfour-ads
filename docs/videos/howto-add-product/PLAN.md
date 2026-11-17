@@ -1,6 +1,6 @@
 # MalFour how-to video: add a product to your stock (PLAN, v3)
 
-Edit this file freely. Lines marked **[DECIDE]** need an answer before I build. The build starts only when you say the plan is final. This plan replaces EXPLAINER-V2-PLAN.md.
+Edit this file freely. Lines marked **[DECIDE]** need an answer before I build. The build starts only when you say the plan is final. This plan replaces [the inventory explainer v2 plan](../inventory-explainer/PLAN-v2.md).
 
 ## 1. What changed (supervisor's correction, 11 Nov 2026)
 

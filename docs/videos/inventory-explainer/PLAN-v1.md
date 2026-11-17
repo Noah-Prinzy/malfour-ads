@@ -127,4 +127,4 @@
 5. **Deliverables:** English only, or captions in Kinyarwanda too? Also a 9:16 cut?
 6. **Branding:** can we use the MalFour logo and the end card as in the ad?
 
-> **Version 2 (polished finals, Jane + Paul):** see [EXPLAINER-V2-PLAN.md](EXPLAINER-V2-PLAN.md).
+> **Version 2 (polished finals, Jane + Paul):** see [PLAN-v2.md](PLAN-v2.md). Superseded for the how-to direction by [../howto-add-product/PLAN.md](../howto-add-product/PLAN.md).

@@ -1,6 +1,6 @@
 # MalFour Pharmacy System: Campaign & Creative Brief (Rwanda)
 
-*Mark, 10 Nov 2026. Extends the locked 42 s ad (PLAN.md, "Not a museum" + "One sale"). Product observations come from a read-only walk through the live demo account (URUMURI Pharmacy, "Demo Pharma"), signed in by Noah. Nothing was changed. Market statements are practitioner-level context, **not sourced statistics**: items marked ⚠ must be verified before they appear in any ad or paid copy.*
+*Mark, 10 Nov 2026. Extends the locked 42 s ad (PLAN.md — not included in this repo; "Not a museum" + "One sale"). Product observations come from a read-only walk through the live demo account (URUMURI Pharmacy, "Demo Pharma"), signed in by Noah. Nothing was changed. Market statements are practitioner-level context, **not sourced statistics**: items marked ⚠ must be verified before they appear in any ad or paid copy.*
 
 ---
 
